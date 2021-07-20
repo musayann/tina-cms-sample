@@ -9,7 +9,9 @@ summary: Highlights from Medium by our very own content staff
 ---
 In a time where there’s a global pandemic, a looming cicada uprising, and millions of new trending topics a day on socials, staying focused has been the hardest it’s ever been. Everyone here at Medium has been struggling with productivity, and consequently, we’ve really been into reading stories around battling distractions. We wanted to share some of our favorites with you, so here’s a roundup of a few standouts, courtesy of your friends at Medium.
 
-## [**You Are Making Progress Towards Your Goals — Even if it Doesn’t Feel Like it**](https://allison-wonchoba.medium.com/you-are-making-progress-towards-your-goals-even-if-it-doesnt-feel-like-it-5fd6684246a8) _**—** [**Allison Wonchoba**](https://medium.com/u/60a344028b6e?source=post_page-----4c696f39a12d--------------------------------)_
+![](https://res.cloudinary.com/ape-unit/image/upload/v1626174818/neueux/media/articles/tacode02_red%20%281%29.webp)
+
+## [**You Are Making Progress Towards Your Goals — Even if it Doesn’t Feel Like it**](https://allison-wonchoba.medium.com/you-are-making-progress-towards-your-goals-even-if-it-doesnt-feel-like-it-5fd6684246a8) _**— **[**Allison Wonchoba**](https://medium.com/u/60a344028b6e?source=post_page-----4c696f39a12d--------------------------------)_
 
 When tackling a long-term project, all the to-do lists, short-term goals, and supplementary tasks can seem overwhelming. Whether you are frozen at the starting line by the sheer volume of it all, or feeling stuck years into your creative journey, it can sometimes be hard to find the motivation to continue producing.
 
@@ -17,7 +19,7 @@ Allison Wonchoba uses author James Clear’s 1% rule (from his book, _Atomic Ha
 
 Wonchoba adds additional value to this 1% principle with wonderful anecdotes to explain a variety of practices that help you stay motivated throughout the journey, recognizing and celebrating each step of your progress made along the way. It’s a powerful reminder that we are all in this together, learning and growing as we go.
 
-— 
+—
 
 [Sarah Marie](https://medium.com/u/f7d5821a4efd?source=post_page-----4c696f39a12d--------------------------------)
 
@@ -37,7 +39,7 @@ He follows that observation with characteristically useful advice — for instan
 
 That’s Nir’s go-to move: a perfect mix of the theoretical and the practical. It doesn’t hurt that he lets us off the hook for playing video games.
 
-— 
+—
 
 [Jon Gluck](https://medium.com/u/c40368eb8edc?source=post_page-----4c696f39a12d--------------------------------)
 
@@ -51,7 +53,7 @@ As much as I hate when good ideas escape me, I think that the presence of those 
 
 Like Ruof, without the chance for my mind to wander — to give it space from the endless scroll of distracting blue light emitting think pieces about _[Mare of Easttown](https://www.indiewire.com/2021/05/mare-of-easttown-characters-bed-hair-1234636363/)_[’s hair](https://www.indiewire.com/2021/05/mare-of-easttown-characters-bed-hair-1234636363/) — the subconscious trickles of inspiration are unable to flow. Also, Ruof made me really think hard about [Koopalings](https://mario.fandom.com/wiki/Koopalings) and, to answer his mind-wandering question that turned into my hour long distraction. I think [Bowser](https://www.mariowiki.com/Bowser) is part turtle/dragon/reptile so maybe one, er, encounter could produce/hatch [many, many children](https://www.turtleconservationsociety.org.my/how-many-eggs-does-a-turtle-lay-at-a-time/)?
 
-— 
+—
 
 [Donna K.](https://medium.com/u/42f8e531c416?source=post_page-----4c696f39a12d--------------------------------)
 
@@ -67,7 +69,7 @@ Affirmations help you take control and rewrite the narrative — for example, by
 
 Ssekamatte walks the reader through mental, visual, and verbal affirmations to help them find which option, or combination of options, works best for them. He also walks through how he uses them, giving readers a sense of how it all works together in a day. In this piece, Ssekamatte offers an option for finding focus that readers may not have been exposed to before and addresses the issue from a psychological stance: convincing yourself that you can do what you set out to do, because just as you can be your greatest critic, you can also be your greatest supporter.
 
-— 
+—
 
 [Sarah Marie](https://medium.com/u/f7d5821a4efd?source=post_page-----4c696f39a12d--------------------------------)
 
@@ -85,7 +87,7 @@ One of the areas of advice that really caught my eye was Darrow’s proclamation
 
 Darrow’s got it right when he says, “distraction-blocking advice can only go so far.” The end goal, then, is not to get rid of distraction, but self-consciousness. He writes, “In fact, when you’re in flow state, your sense of self disappears altogether.” Ultimately, the biggest creative battle we face will always be with ourselves, but it’s one we’re capable of winning.
 
-— 
+—
 
 [Genesis Lauu](https://medium.com/u/519d8aef07c1?source=post_page-----4c696f39a12d--------------------------------)
 
@@ -95,7 +97,7 @@ Darrow’s got it right when he says, “distraction-blocking advice can only go
 
 Darius Foroux is a master of [staying in the present](https://medium.com/darius-foroux/on-living-a-conscious-life-e07a05505e66), but that doesn’t mean that it comes easy even to him. The entrepreneur/Stoic philosopher reminds us that our thoughts are constantly urging us away from the present moment, but that we can stay in control — release the thoughts that spin out and away from the task at hand, and focus on what really matters, right now. It takes practice — but it’s worth the effort.
 
-— 
+—
 
 [Amy Shearn](https://medium.com/u/b137beb220b9?source=post_page-----4c696f39a12d--------------------------------)
 
