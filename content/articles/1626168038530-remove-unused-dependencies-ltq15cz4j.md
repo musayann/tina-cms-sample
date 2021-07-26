@@ -1,6 +1,6 @@
 ---
 id: ltq15cz4j
-title: Test article grooms
+title: Test article groom
 slug: 1626168038530-remove-unused-dependencies-ltq15cz4j
 category: ''
 featured_image: >-
